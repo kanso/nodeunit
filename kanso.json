@@ -1,6 +1,6 @@
 {
     "name": "nodeunit",
-    "version": "0.5.3",
+    "version": "0.7.1",
     "categories": ["testing"],
     "maintainers": [
         {
